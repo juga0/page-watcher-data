@@ -1,0 +1,50 @@
+# Privacy Policy
+
+Signal provides end-to-end encrypted calling and messaging. We cannot decrypt
+or otherwise access the content of a call or a message.
+
+## Information We Have
+
+Certain information (e.g. a recipient's identifier, an encrypted message body,
+etc.) is transmitted to us solely for the purpose of placing calls or
+transmitting messages. Unless otherwise stated below, this information is only
+kept as long as necessary to place each call or transmit each message, and is
+not used for any other purpose.
+
+### 1\. Information we store
+
+  * The phone number or identifier you register with.
+
+  * Randomly generated authentication tokens, keys, push tokens, etc. necessary for setting up a call or transmitting a message.
+
+  * Profile information (e.g. an avatar, etc) you submit.
+
+### 2\. Transient information
+
+  * IP addresses may be kept in memory for rate limiting or to prevent abuse.
+
+  * Information from the contacts on your device may be cryptographically hashed and transmitted to the server in order to [determine which of your contacts are registered](/blog/contact-discovery).
+
+## Information We May Share
+
+We do not share your information with companies, organizations, and
+individuals outside of OWS unless one of the following circumstances applies:
+
+  * With your consent.
+
+  * Through normal communication with a federated server operated by another entity. Some Signal users might be registered with other providers (e.g. CyanogenMOD), which requires passing messages, synchronizing views of registered users, etc.
+
+  * When legally required.
+
+We will share the information we have with entities outside of OWS if we have
+a good faith belief that access, use, preservation, or disclosure of the
+information is necessary to:
+
+  * meet any applicable law, regulation, legal process or enforceable governmental request.
+  * enforce applicable Terms of Service, including investigation of potential violations.
+  * detect, prevent, or otherwise address fraud, security, or technical issues.
+  * protect against harm to the rights, property, or safety of OWS, our users, or the public as required or permitted by law.
+
+We will update this privacy policy as needed so that it is current, accurate,
+and as clear as possible.
+

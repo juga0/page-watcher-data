@@ -1,3 +1,2 @@
-{commit_revision: null, host: morph.io, ip: 50.116.3.88, timestamp: '2016-05-27 02:59:03.643081',
-  uname: 'Linux db350b92de0d 3.13.0-48-generic #80~precise1-Ubuntu SMP Thu Mar 12
-    19:30:15 UTC 2015 x86_64'}
+{commit_revision: c22d8765b79fb5c975675a5c9dd23ed7156130e0, host: dev server, ip: e75733ca48dc28c8d66d73b879992609d1d5ced6fdfddb5c659e4a43a3049b51,
+  timestamp: '2016-05-28 14:35:05.693039', uname: f77ac6f5e4121861802b24438664f222d4ffccf5ab5324a31c4df72642170561}

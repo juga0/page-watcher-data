@@ -18,7 +18,8 @@ Policy, and tells you how to contact us with any questions or comments.
   
   
 
-![](/images/arrowup.gif)top**WHAT TYPES OF INFORMATION WE COLLECT ABOUT YOU**
+![](http://s.tmocache.com/images/arrowup.gif)top**WHAT TYPES OF INFORMATION WE
+COLLECT ABOUT YOU**
 
 We collect information about you and your associated device(s) when you use
 our products or services or otherwise interact with us or with third-party
@@ -50,9 +51,9 @@ Information](/Company/PrivacyResources.aspx?tp=Abt_Tab_CPNI)
 We collect information about your credit card or banking information, Social
 Security Number, and credit history for account opening, management and
 billing and collection purposes. Financial information we collect is governed
-by [T-Mobiles Financial Privacy Policy](http://www.t-mobile.com/Cms/Files/Pub
-lished/0000BDF20016F5DD010312E2BDE4AE9B/5657114502E70FF30124DE7B5D9A9D91/file/
-Financial%20Privacy%20Policy%20Feb%202012%20Final.pdf)
+by [T-Mobiles Financial Privacy Policy](http://s.tmocache.com/Cms/Files/Publi
+shed/0000BDF20016F5DD010312E2BDE4AE9B/5657114502E70FF30124DE7B5D9A9D91/file/Fi
+nancial%20Privacy%20Policy%20Feb%202012%20Final.pdf)
 
 **Network and Device Information**
 
@@ -116,7 +117,8 @@ permission.
 
   
 
-![](/images/arrowup.gif)top**HOW INFORMATION ABOUT YOU IS COLLECTED**
+![](http://s.tmocache.com/images/arrowup.gif)top**HOW INFORMATION ABOUT YOU IS
+COLLECTED**
 
 T-Mobile collects information about you in three primary ways:
 
@@ -212,7 +214,8 @@ from others.
 
   
 
-![](/images/arrowup.gif)top**HOW WE USE INFORMATION WE COLLECT ABOUT YOU**
+![](http://s.tmocache.com/images/arrowup.gif)top**HOW WE USE INFORMATION WE
+COLLECT ABOUT YOU**
 
 We use the information we collect for a variety of business purposes, such as:
 
@@ -399,7 +402,8 @@ Options)
     * If you are using your device, but are not on our network (such as a WiFi network), we, and our ad providers, may not be able to identify your ad choices.
   * _On Your Computer or Non-Mobile Device._ For information about targeted advertising, or to opt-out of use of your browser information for purposes of certain third-party advertising, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). Please note that if you opt out, you will continue to receive the same number of ads, but they may be less relevant because they will not be based on your interests. You may still see ads related to content on a web page or based on other nonpersonal information. Please note that this opt-out is cookie-based. If you change computers or devices, change web browsers, or delete cookies, you will need to visit the aboutads site and opt-out again.
 
-![](/images/arrowup.gif)top**WHEN WE SHARE INFORMATION COLLECTED ABOUT YOU**
+![](http://s.tmocache.com/images/arrowup.gif)top**WHEN WE SHARE INFORMATION
+COLLECTED ABOUT YOU**
 
   
 
@@ -517,8 +521,8 @@ Apps](/Company/PrivacyResources.aspx?tp=Abt_Tab_ThirdParty)
 
   
 
-![](/images/arrowup.gif)top**HOW WE STORE AND PROTECT THE INFORMATION
-COLLECTED ABOUT YOU**
+![](http://s.tmocache.com/images/arrowup.gif)top**HOW WE STORE AND PROTECT THE
+INFORMATION COLLECTED ABOUT YOU**
 
 **Protecting Your Information**
 
@@ -553,8 +557,8 @@ applicable laws, regulations, or government orders require. When we dispose of
 Personal Information, we use reasonable procedures designed to erase or render
 it unreadable (for example, shredding documents and wiping electronic media).
 
-![](/images/arrowup.gif)top**HOW YOU CAN UPDATE YOUR INFORMATION AND CHOOSE
-HOW WE CONTACT YOU**
+![](http://s.tmocache.com/images/arrowup.gif)top**HOW YOU CAN UPDATE YOUR
+INFORMATION AND CHOOSE HOW WE CONTACT YOU**
 
   
 **Access to Your Information**
@@ -600,7 +604,8 @@ telemarketing calls to that number.
 
   
 
-![](/images/arrowup.gif)top**YOUR ROLE IN PROTECTING YOUR PRIVACY**
+![](http://s.tmocache.com/images/arrowup.gif)top**YOUR ROLE IN PROTECTING YOUR
+PRIVACY**
 
 You play an important role in ensuring the security of Personal Information.
 We encourage you to use safeguards to protect your information and devices.
@@ -610,7 +615,8 @@ ingPrivacy).
 
   
 
-![](/images/arrowup.gif)top**OTHER INFORMATION YOU SHOULD KNOW**
+![](http://s.tmocache.com/images/arrowup.gif)top**OTHER INFORMATION YOU SHOULD
+KNOW**
 
 **Consumer Code for Wireless Service**
 
@@ -636,7 +642,8 @@ section below.
 
   
 
-![](/images/arrowup.gif)top**PRIVACY POLICY UPDATES AND CONTACT INFORMATION**
+![](http://s.tmocache.com/images/arrowup.gif)top**PRIVACY POLICY UPDATES AND
+CONTACT INFORMATION**
 
 **How We Communicate Changes to This Policy**
 

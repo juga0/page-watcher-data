@@ -143,7 +143,7 @@ the experience on our roaming partners networks:
 
   * Please check our coverage maps, which approximate our anticipated coverage area outdoors. Your experience on our network may vary and change without notice depending on a variety of factors. For more information, click here. You agree that we are not liable for problems relating to Service availability or quality.
   * For more information about roaming, click here.
-  * To provide the best possible experience for the most possible customers, we prioritize the data usage of a small percentage of our data customers who use the highest amount of data (currently, more than 25GB) below that of other customers in times and locations where there are competing customer demands for network resources. Click here for more information.
+  * To provide the best possible experience for the most possible customers, we prioritize the data usage of a small percentage of our data customers who use the highest amount of data (currently, more than 26GB) below that of other customers in times and locations where there are competing customer demands for network resources. Click here for more information.
   * We utilize streaming video optimization technology in our network, as a customer-controlled feature on qualifying plans, which helps to minimize high speed data consumption, while also improving the service experience for all customers. Some qualifying video providers may choose to opt-out of the Binge On program, see [listing](http://t-mobile.com/offer/binge-on-streaming-video-modal-2.html). The Binge On optimization technology is not applied to the video services of these providers; video from these services will stream at native resolution, and high-speed data consumption will continue as if Binge On were not enabled.
   * Additionally, we may implement other network practices, such as caching less data.
   * Our [Open Internet Policy](http://www.T-Mobile.com/OpenInternet) includes important information on these topics as well as information on commercial terms, performance characteristics (such as expected speed, latency) and network practices.
@@ -464,7 +464,7 @@ minimize capacity issues and degradation in network performance, we may,
 without advance notice, take any actions necessary to manage our network on a
 content-agnostic basis, including prioritizing the data usage of a small
 percentage of data customers who use the highest amount of data (currently,
-more than 25GB) below that of other customers in times and locations where
+more than 26GB) below that of other customers in times and locations where
 there are competing customer demands for network resources, for the remainder
 of the billing cycle. Where the network is lightly loaded in relation to
 available capacity, a customer whose data is de-prioritized will notice

@@ -104,6 +104,5 @@ period after which your inactive account will self-destruct in Settings.
 
 This feature was introduced on November 19, 2014. Since the default self-
 destruct setting for Telegram accounts is 6 months, accounts that have last
-been active before November 19, 2014 have begun self-destructing on May 19,
-2015. This is a slow process, but they will all be gone soon.
+been active before November 19, 2014 self-destructed in May, 2015.
 

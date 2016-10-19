@@ -465,13 +465,13 @@ identifies you (such as your name or email address). You can opt out of data
 collection or use by some of these analytics providers by clicking the
 following links:
 
-  * Flurry Analytics: [flurry.com/legal-privacy/end-user-opt-out](http://flurry.com/legal-privacy/end-user-opt-out)
-  * Google Analytics: [tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout) (requires you to install a browser add-on)
+  * Flurry Analytics: [dev.flurry.com/secure/optOut.do](https://dev.flurry.com/secure/optOut.do)
+  * Google Analytics: [tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout) (requires you to install a browser add-on) 
   * Kissmetrics: [kissmetrics.com/user-privacy](https://kissmetrics.com/user-privacy)
   * Mixpanel: [mixpanel.com/optout](https://mixpanel.com/optout)
   * Nielsen: [www.nielsen-online.com/corp.jsp?section=leg_prs&amp;nav=1#Optoutchoices](http://www.nielsen-online.com/corp.jsp?section=leg_prs&nav=1#Optoutchoices)
   * Omniture (Adobe): [www.d1.sc.omtrdc.net/optout.html](http://www.d1.sc.omtrdc.net/optout.html)
-  * Visible Measures: [corp.visiblemeasures.com/viewer-settings](http://corp.visiblemeasures.com/viewer-settings)
+  * Visible Measures: [www.visiblemeasures.com/viewer-settings-opt-out](http://www.visiblemeasures.com/viewer-settings-opt-out)
   * WebTrends: [ondemand.webtrends.com/support/optout.asp](https://ondemand.webtrends.com/support/optout.asp)
 
 **Other Similar Technologies**

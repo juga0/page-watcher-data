@@ -1,10 +1,8 @@
   
 
-Did you activate (or renew) service prior to October 28, 2016? If yes, please
-click the date for the applicable version of the Terms and Conditions:
-[September 1, 2016
-](/Templates/Popup.aspx?PAsset=Ftr_Ftr_TermsAndConditionsSep2016&print=true) |
-[March 17, 2016
+Did you activate (or renew) service prior to September 1, 2016? If yes, please
+click the date for the applicable version of the Terms and Conditions: [March
+17, 2016
 ](/Templates/Popup.aspx?PAsset=Ftr_Ftr_TermsAndConditionsMar2016&print=true) |
 [February 17, 2016
 ](/Templates/Popup.aspx?PAsset=Ftr_Ftr_TermsAndConditionsFeb2016&print=true) |
@@ -28,7 +26,7 @@ Asset=Ftr_Ftr_TermsAndConditionsJuly2011&print=true) |[July 18,
 
 **T-Mobile Terms &amp; Conditions**
 
-Effective as of October 28, 2016
+Effective as of September 1, 2016
 
 Thanks for choosing T-Mobile. Please read these Terms &amp; Conditions
 (T&amp;Cs), which contain important information about your relationship with

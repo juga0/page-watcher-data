@@ -1,6 +1,6 @@
 ### T-Mobile Privacy Policy
 
-November 25, 2015  
+December 31, 2016  
 [Please click here for Spanish version of the T-Mobile Privacy Policy](javascr
 ipt:var%20popupwin=this.window.open\('http://es.t-mobile.com/company/website/p
 rivacypolicy.aspx?WT.z_unav=ftr__privacypolicy',665,%22height=600,width=800,sc
@@ -18,8 +18,8 @@ Policy, and tells you how to contact us with any questions or comments.
   
   
 
-![](http://s.tmocache.com/images/arrowup.gif)top**WHAT TYPES OF INFORMATION WE
-COLLECT ABOUT YOU**
+![](https://s.tmocache.com/images/arrowup.gif)top**WHAT TYPES OF INFORMATION
+WE COLLECT ABOUT YOU**
 
 We collect information about you and your associated device(s) when you use
 our products or services or otherwise interact with us or with third-party
@@ -51,9 +51,8 @@ Information](/Company/PrivacyResources.aspx?tp=Abt_Tab_CPNI)
 We collect information about your credit card or banking information, Social
 Security Number, and credit history for account opening, management and
 billing and collection purposes. Financial information we collect is governed
-by [T-Mobiles Financial Privacy Policy](http://s.tmocache.com/Cms/Files/Publi
-shed/0000BDF20016F5DD010312E2BDE4AE9B/5657114502E70FF30124DE7B5D9A9D91/file/Fi
-nancial%20Privacy%20Policy%20Feb%202012%20Final.pdf)
+by [T-Mobiles Financial Privacy Policy](https://www.t-mobile.com/pdf/T
+-Mobile-Financial-Privacy-Policy_EN.pdf%20)
 
 **Network and Device Information**
 
@@ -79,6 +78,14 @@ performance issues. We may also collect information about applications on your
 device, the fact that an application has been added, when an application is
 launched or fails to launch, and length of time an application has been
 running.
+
+**Telematics**
+
+If you are a customer of the T-Mobile SyncUp connected car service, we, and
+our application provider, collect data from the SyncUp device in your car.
+This data includes driver behavior information such as acceleration and
+braking, speed, and RPM. The device also reports vehicle location via GPS and
+can report on common vehicle issues called Diagnostic Trouble Codes (DTC).
 
 **Video Data**
 
@@ -117,8 +124,8 @@ permission.
 
   
 
-![](http://s.tmocache.com/images/arrowup.gif)top**HOW INFORMATION ABOUT YOU IS
-COLLECTED**
+![](https://s.tmocache.com/images/arrowup.gif)top**HOW INFORMATION ABOUT YOU
+IS COLLECTED**
 
 T-Mobile collects information about you in three primary ways:
 
@@ -130,8 +137,11 @@ use our products or services, or otherwise communicate with us.
 For example, some of the ways you may provide information to us include:
 
   * When you sign up for our voice or data services or purchase other products or services, we may collect personal contact, billing, and credit information.
+
   * When you establish or modify an online account, we may collect user identification information, passwords, and/or security question responses that you will use for future sign-on.
+
   * When you interact with our customer service representatives, enter information on our websites, submit survey responses, or pay for services, we may also collect Personal Information and other information. We may monitor and record phone calls, e-mails, live chats, or other communications between you, your device, and our customer service representatives or other employees or representatives.
+
   * When you use our services on a phone provided to you by an account holder.
 
 **Information We Collect Automatically**
@@ -145,7 +155,9 @@ account.
 For example some of the ways we may automatically collect information include:
 
   * Our systems capture details about the type and location of wireless device(s) you use, when the device is turned on, calls and text messages you send and receive (but we do not retain the content of those calls or messages after delivery), and other data services you use.
+
   * We may also gather information about the performance of your device and our network. Some examples of the types of data collected include: the applications on the device, signal strength, dropped calls, data failures, and other device or network performance issues.
+
   * **Cookies, Web Beacons, and Similar Technologies**
 
 We may use, or we may engage third-parties to use on our behalf, cookies
@@ -160,11 +172,14 @@ e-mail) to monitor interaction with our websites or e-mails. Web beacons are
 generally invisible because they are very small (only 1-by-1 pixel) and the
 same color as the background of the web page or e-mail message.
 
-Depending upon your device or computer, you may be able to set your browser(s)
-to reject cookies or delete cookies, but that may result in the loss of some
-functionality on our websites. If we combine or link cookie or web beacon
-information with Personal Information, we will treat the combined or linked
-information as Personal Information under this Policy.
+The information we receive through cookies, web beacons and similar
+technologies may enable us to recognize users across devices, such as
+smartphones, computers, tablets or related browsers. Depending upon your
+device or computer, you may be able to set your browser(s) to reject cookies
+or delete cookies, but that may result in the loss of some functionality on
+our websites. If we combine or link cookie or web beacon information with
+Personal Information, we will treat the combined or linked information as
+Personal Information under this Policy.
 
   *   
 
@@ -202,6 +217,18 @@ interest-based advertising on your device, as described below.
 If you use a voice-controlled application, that application may collect and
 record your requests and other information from you and your phone.
 
+  * **Retail Beacons**
+
+We may use beacon devices in our retail locations that collect data about your
+device. These programs use signals from smart devices (like mobile phones and
+tablets) to track movement and wait times. Retail beacons collect a unique
+identifier that your device routinely transmits (e.g., a MAC address) and
+coverts it to an identifier unique to T-Mobile. In some cases, we will use
+identifiers that are already routinely collected by the T-Mobile network in
+order to provide you with wireless service. We use aggregated data in order to
+understand general traffic trends in our stores. This helps us to better
+service our customers.
+
 **Information From Other Sources**
 
 We may also obtain information about you from other sources. For example, we
@@ -214,7 +241,7 @@ from others.
 
   
 
-![](http://s.tmocache.com/images/arrowup.gif)top**HOW WE USE INFORMATION WE
+![](https://s.tmocache.com/images/arrowup.gif)top**HOW WE USE INFORMATION WE
 COLLECT ABOUT YOU**
 
 We use the information we collect for a variety of business purposes, such as:
@@ -335,6 +362,19 @@ For more information on location services, see [Privacy Resources/Location
 Services](/Company/PrivacyResources.aspx?tp=Abt_Tab_LocationServices)
 
   
+**Telematics**
+
+Data from our SyncUp connected car service is used to provide you with that
+vehicle monitoring service, to enable the functions of the SyncUp associated
+Motion app, and to enable WiFi connectivity in your car. In addition, your
+data may be shared with our application provider in order to enable third-
+party services that use your personal data, though in such cases no third-
+party will be granted access to data that identifies you without first
+obtaining your consent. We may also use such data for any of the other
+purposes listed in this policy, such as internal analysis, or to personalize
+offers we provide to you.
+
+  
 **Advertising**
 
 You may see advertisements when you visit our websites, mobile websites, in
@@ -394,6 +434,9 @@ Options)
 **Choices About Advertising.**
   *   
 
+T-Mobile adheres to the Digital Advertising Alliance’s (“DAA”) Self-Regulatory
+Principles for Online Behavioral Advertising.
+
   * _On Your Mobile Device._ Where we offer interest-based ads, you can opt-out of certain interest-based advertising by clicking on the ad options link on or near the advertisement or by clicking [here](http://iba.t-mobile.com/tmo/).
 
     * If you turn off interest-based ads, you will still see just as many ads, but the ads may not be based on your interests and may be less relevant to you.
@@ -402,7 +445,7 @@ Options)
     * If you are using your device, but are not on our network (such as a WiFi network), we, and our ad providers, may not be able to identify your ad choices.
   * _On Your Computer or Non-Mobile Device._ For information about targeted advertising, or to opt-out of use of your browser information for purposes of certain third-party advertising, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). Please note that if you opt out, you will continue to receive the same number of ads, but they may be less relevant because they will not be based on your interests. You may still see ads related to content on a web page or based on other nonpersonal information. Please note that this opt-out is cookie-based. If you change computers or devices, change web browsers, or delete cookies, you will need to visit the aboutads site and opt-out again.
 
-![](http://s.tmocache.com/images/arrowup.gif)top**WHEN WE SHARE INFORMATION
+![](https://s.tmocache.com/images/arrowup.gif)top**WHEN WE SHARE INFORMATION
 COLLECTED ABOUT YOU**
 
   
@@ -521,8 +564,8 @@ Apps](/Company/PrivacyResources.aspx?tp=Abt_Tab_ThirdParty)
 
   
 
-![](http://s.tmocache.com/images/arrowup.gif)top**HOW WE STORE AND PROTECT THE
-INFORMATION COLLECTED ABOUT YOU**
+![](https://s.tmocache.com/images/arrowup.gif)top**HOW WE STORE AND PROTECT
+THE INFORMATION COLLECTED ABOUT YOU**
 
 **Protecting Your Information**
 
@@ -557,7 +600,7 @@ applicable laws, regulations, or government orders require. When we dispose of
 Personal Information, we use reasonable procedures designed to erase or render
 it unreadable (for example, shredding documents and wiping electronic media).
 
-![](http://s.tmocache.com/images/arrowup.gif)top**HOW YOU CAN UPDATE YOUR
+![](https://s.tmocache.com/images/arrowup.gif)top**HOW YOU CAN UPDATE YOUR
 INFORMATION AND CHOOSE HOW WE CONTACT YOU**
 
   
@@ -585,15 +628,15 @@ manage your preferences regarding marketing communications by logging into
 your [my.t-mobile.com](https://my.t-mobile.com) profile. If you do not manage
 your account online, or you are not a current T-Mobile customer, you may
 manage your preferences regarding marketing communications
-[here](/company/website/OptOut.aspx?type=2).
+[here](/company/website/OptOut.aspx?type=1).
 
 You may also manage your preferences regarding marketing communications by
 contacting Customer Service by dialing 611 from your T-Mobile phone or
 1-800-937-8997 from any phone, or, with respect to marketing e-mails, by
 following the "unsubscribe" instructions on any marketing e-mail we send you.
 
-See also [Privacy Resources/Marketing Choice](/Company/PrivacyResources.aspx?t
-p=Abt_Tab_YourPrivacychoices&tsp=Abt_Sub_MarketingChoice)
+See also [Privacy Resources/Marketing
+Choice](/Company/PrivacyResources.aspx?tp=Abt_Tab_DoNotCallPolicy)
 
 **Do Not Call Registry**
 
@@ -604,19 +647,18 @@ telemarketing calls to that number.
 
   
 
-![](http://s.tmocache.com/images/arrowup.gif)top**YOUR ROLE IN PROTECTING YOUR
-PRIVACY**
+![](https://s.tmocache.com/images/arrowup.gif)top**YOUR ROLE IN PROTECTING
+YOUR PRIVACY**
 
 You play an important role in ensuring the security of Personal Information.
 We encourage you to use safeguards to protect your information and devices.
-For more information please see [Privacy Resources/Protecting Your Privacy](/C
-ompany/PrivacyResources.aspx?tp=Abt_Tab_YourPrivacychoices&tsp=Abt_Sub_Protect
-ingPrivacy).
+For more information please see [Privacy Resources/Protecting Your
+Privacy](/Company/PrivacyResources.aspx?tp=Abt_Tab_Resources).
 
   
 
-![](http://s.tmocache.com/images/arrowup.gif)top**OTHER INFORMATION YOU SHOULD
-KNOW**
+![](https://s.tmocache.com/images/arrowup.gif)top**OTHER INFORMATION YOU
+SHOULD KNOW**
 
 **Consumer Code for Wireless Service**
 
@@ -642,7 +684,7 @@ section below.
 
   
 
-![](http://s.tmocache.com/images/arrowup.gif)top**PRIVACY POLICY UPDATES AND
+![](https://s.tmocache.com/images/arrowup.gif)top**PRIVACY POLICY UPDATES AND
 CONTACT INFORMATION**
 
 **How We Communicate Changes to This Policy**

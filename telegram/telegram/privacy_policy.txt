@@ -82,8 +82,8 @@ We never delete your funny cat pictures, we love them too much.
 
 When you delete a message, you delete it from your message history. This means
 that a copy still stays on the server as part of your partner‘s message
-history. As soon as your partner deletes it too, it’s gone forever. Telegram
-is a non-commercial project and we value the disk space on our servers
+history. As soon as your partner deletes it too, it’s gone forever. Telegram's
+goal is not to bring profit and we value the disk space on our servers
 greatly.
 
 #### __Self-destructing messages

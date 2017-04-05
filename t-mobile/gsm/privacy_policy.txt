@@ -349,9 +349,8 @@ or similar services associated with enterprise or multi-line accounts  for
 example, T-Mobiles FamilyWhereTM services  which may be managed solely by
 the primary account holder or their designee, but always with notice to the
 end-user). T-Mobile follows the CTIAs Best Practices Guidelines for Location-
-Based Services, which are available [here](http://www.ctia.org/policy-
-initiatives/voluntary-guidelines/best-practices-and-guidelines-for-location-
-based-services).
+Based Services, which are available
+[here](http://files.ctia.org/pdf/CTIA_LBS_Best_Practices_Adopted_03_10.pdf).
 
   
 

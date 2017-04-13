@@ -96,13 +96,9 @@ delete the message (photo, video, etc.).
 
 #### __Account self-destruction
 
-Telegram is not a commercial organization and we value our disk space greatly.
-If you stop using Telegram and do not login for at least 6 months, your
-account will be deleted along with all messages, media, contacts and every
-other piece of data you store in the Telegram cloud. You can change the exact
-period after which your inactive account will self-destruct in Settings.
-
-This feature was introduced on November 19, 2014. Since the default self-
-destruct setting for Telegram accounts is 6 months, accounts that have last
-been active before November 19, 2014 self-destructed in May, 2015.
+We value our disk space greatly. If you stop using Telegram and do not login
+for at least 6 months, your account will be deleted along with all messages,
+media, contacts and every other piece of data you store in the Telegram cloud.
+You can change the exact period after which your inactive account will self-
+destruct in Settings.
 

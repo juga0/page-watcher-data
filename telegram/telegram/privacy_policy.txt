@@ -7,7 +7,8 @@ code) and make an informed decision.
 
 ### __1\. Sharing data
 
-We never share your data with anyone. No.
+We never share your data with anyone. To this day, we have disclosed 0 bytes
+of user data to third parties, including governments.
 
 ### __2\. Storing data
 

@@ -103,3 +103,48 @@ media, contacts and every other piece of data you store in the Telegram cloud.
 You can change the exact period after which your inactive account will self-
 destruct in Settings.
 
+### __4\. Payment information
+
+The [Payment Platform for Bots](https://core.telegram.org/bots/payments) is
+available to users as of [Telegram 4.0](https://telegram.org/blog/payments).
+Telegram does not process payments from users and instead relies on different
+payment providers around the world. It is the payment providers that handle
+and store your credit card details. Neither Telegram nor the merchants on the
+platform (bot developers) have access to this information.
+
+#### __Credit card information
+
+When making a purchase, you enter your credit card details into a form
+supplied by the payment provider that will be processing the payment, and this
+information goes directly to the payment provider‘s server. Your credit card
+information never reaches Telegram’s servers. We do not access and do not
+store your credit card information.
+
+When you save your credit card info, it is saved on the respective payment
+provider's servers and the payment provider gives Telegram a _token_ that can
+you can reuse for future payments. It is not possible to reconstruct your
+credit card info from the token.
+
+#### __Shipping information
+
+When you enter shipping information in the process of placing an order, we
+send it directly to the merchant bot developer. We can store your shipping
+information for you if you choose to save it for future purchases. We will
+delete this information immediately if you ask us to.
+
+#### __Clearing payment information
+
+You can clear all payment information associated with your account at any time
+by going to Telegram Settings &gt; Privacy &amp; Security and selecting ‘Clear
+Payment &amp; Shipping Info’. If you choose to remove your payment
+information, we will delete your stored shipping info and payment tokens from
+all providers and ask the providers to remove your credit card information
+they store.
+
+#### __Payment disputes
+
+Due to the fact that Telegram doesn't store any credit card details or
+transaction information, it is impossible for us to handle complaints or
+cashbacks – any disputed payments are the responsibility of the bot
+developers, payment providers, and banks that participated in the exchange.
+

@@ -87,6 +87,10 @@ history. As soon as your partner deletes it too, it’s gone forever. Telegram's
 goal is not to bring profit and we value the disk space on our servers
 greatly.
 
+In supergroups, deleted messages and original versions of edited messages are
+stored for 48 hours in order to be shown in the admins log (added in Telegram
+4.1.).
+
 #### __Self-destructing messages
 
 Messages in Secret Chats can be ordered to [self-destruct](/faq#q-how-do-self-

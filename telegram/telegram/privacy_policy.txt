@@ -125,9 +125,9 @@ information never reaches Telegram’s servers. We do not access and do not
 store your credit card information.
 
 When you save your credit card info, it is saved on the respective payment
-provider's servers and the payment provider gives Telegram a _token_ that can
-you can reuse for future payments. It is not possible to reconstruct your
-credit card info from the token.
+provider's servers and the payment provider gives Telegram a _token_ that you
+can reuse for future payments. It is not possible to reconstruct your credit
+card info from the token.
 
 #### __Shipping information
 

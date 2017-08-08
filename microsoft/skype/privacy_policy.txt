@@ -613,7 +613,7 @@ agents process personal data on our behalf in a manner inconsistent with the
 principles of either Privacy Shield framework, we remain liable unless we
 prove we are not responsible for the event giving rise to the damage. The U.S.
 Department of Commerce lists the participants of each Privacy Shield at
-[privacyshield.gov](https://privacyshield.gov).
+[privacyshield.gov](https://www.privacyshield.gov/list).
 
 If you have a question or complaint related to Microsoft’s participation in
 the EU-U.S. or Swiss-U.S. Privacy Shield, we encourage you to contact us via

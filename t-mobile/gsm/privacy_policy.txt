@@ -18,8 +18,7 @@ Policy, and tells you how to contact us with any questions or comments.
   
   
 
-![](https://s.tmocache.com/images/arrowup.gif)top**WHAT TYPES OF INFORMATION
-WE COLLECT ABOUT YOU**
+![](/images/arrowup.gif)top**WHAT TYPES OF INFORMATION WE COLLECT ABOUT YOU**
 
 We collect information about you and your associated device(s) when you use
 our products or services or otherwise interact with us or with third-party
@@ -124,8 +123,7 @@ permission.
 
   
 
-![](https://s.tmocache.com/images/arrowup.gif)top**HOW INFORMATION ABOUT YOU
-IS COLLECTED**
+![](/images/arrowup.gif)top**HOW INFORMATION ABOUT YOU IS COLLECTED**
 
 T-Mobile collects information about you in three primary ways:
 
@@ -241,8 +239,7 @@ from others.
 
   
 
-![](https://s.tmocache.com/images/arrowup.gif)top**HOW WE USE INFORMATION WE
-COLLECT ABOUT YOU**
+![](/images/arrowup.gif)top**HOW WE USE INFORMATION WE COLLECT ABOUT YOU**
 
 We use the information we collect for a variety of business purposes, such as:
 
@@ -444,8 +441,7 @@ Principles for Online Behavioral Advertising.
     * If you are using your device, but are not on our network (such as a WiFi network), we, and our ad providers, may not be able to identify your ad choices.
   * _On Your Computer or Non-Mobile Device._ For information about targeted advertising, or to opt-out of use of your browser information for purposes of certain third-party advertising, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). Please note that if you opt out, you will continue to receive the same number of ads, but they may be less relevant because they will not be based on your interests. You may still see ads related to content on a web page or based on other nonpersonal information. Please note that this opt-out is cookie-based. If you change computers or devices, change web browsers, or delete cookies, you will need to visit the aboutads site and opt-out again.
 
-![](https://s.tmocache.com/images/arrowup.gif)top**WHEN WE SHARE INFORMATION
-COLLECTED ABOUT YOU**
+![](/images/arrowup.gif)top**WHEN WE SHARE INFORMATION COLLECTED ABOUT YOU**
 
   
 
@@ -563,8 +559,8 @@ Apps](/Company/PrivacyResources.aspx?tp=Abt_Tab_ThirdParty)
 
   
 
-![](https://s.tmocache.com/images/arrowup.gif)top**HOW WE STORE AND PROTECT
-THE INFORMATION COLLECTED ABOUT YOU**
+![](/images/arrowup.gif)top**HOW WE STORE AND PROTECT THE INFORMATION
+COLLECTED ABOUT YOU**
 
 **Protecting Your Information**
 
@@ -599,8 +595,8 @@ applicable laws, regulations, or government orders require. When we dispose of
 Personal Information, we use reasonable procedures designed to erase or render
 it unreadable (for example, shredding documents and wiping electronic media).
 
-![](https://s.tmocache.com/images/arrowup.gif)top**HOW YOU CAN UPDATE YOUR
-INFORMATION AND CHOOSE HOW WE CONTACT YOU**
+![](/images/arrowup.gif)top**HOW YOU CAN UPDATE YOUR INFORMATION AND CHOOSE
+HOW WE CONTACT YOU**
 
   
 **Access to Your Information**
@@ -646,8 +642,7 @@ telemarketing calls to that number.
 
   
 
-![](https://s.tmocache.com/images/arrowup.gif)top**YOUR ROLE IN PROTECTING
-YOUR PRIVACY**
+![](/images/arrowup.gif)top**YOUR ROLE IN PROTECTING YOUR PRIVACY**
 
 You play an important role in ensuring the security of Personal Information.
 We encourage you to use safeguards to protect your information and devices.
@@ -656,8 +651,7 @@ Privacy](/Company/PrivacyResources.aspx?tp=Abt_Tab_Resources).
 
   
 
-![](https://s.tmocache.com/images/arrowup.gif)top**OTHER INFORMATION YOU
-SHOULD KNOW**
+![](/images/arrowup.gif)top**OTHER INFORMATION YOU SHOULD KNOW**
 
 **Consumer Code for Wireless Service**
 
@@ -683,8 +677,7 @@ section below.
 
   
 
-![](https://s.tmocache.com/images/arrowup.gif)top**PRIVACY POLICY UPDATES AND
-CONTACT INFORMATION**
+![](/images/arrowup.gif)top**PRIVACY POLICY UPDATES AND CONTACT INFORMATION**
 
 **How We Communicate Changes to This Policy**
 

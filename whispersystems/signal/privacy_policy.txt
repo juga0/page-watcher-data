@@ -5,7 +5,7 @@ or otherwise access the content of a call or a message.
 
 ## Information We Have
 
-Certain information (e.g. a recipient's identifier, an encrypted message body,
+Certain information (e.g. a recipient’s identifier, an encrypted message body,
 etc.) is transmitted to us solely for the purpose of placing calls or
 transmitting messages. Unless otherwise stated below, this information is only
 kept as long as necessary to place each call or transmit each message, and is

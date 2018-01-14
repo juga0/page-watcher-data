@@ -17,8 +17,6 @@ not used for any other purpose.
 
   * Randomly generated authentication tokens, keys, push tokens, etc. necessary for setting up a call or transmitting a message.
 
-  * Profile information (e.g. an avatar, etc) you submit.
-
 ### 2\. Transient information
 
   * IP addresses may be kept in memory for rate limiting or to prevent abuse.

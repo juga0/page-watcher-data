@@ -39,7 +39,7 @@ _from_.
 
 ##### __Media in Secret Chats
 
-When you send photos, videos or files via secret chats, before being uploaded
+When you send photos, videos or files via secret chats, before being uploaded,
 each item is encrypted with a separate key, not known to the server. This key
 and the file’s location are then encrypted again, this time with the secret
 chat’s key — and sent to your recipient. He can then download and decipher the

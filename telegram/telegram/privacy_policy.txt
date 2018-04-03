@@ -88,8 +88,8 @@ goal is not to bring profit and we value the disk space on our servers
 greatly.
 
 In supergroups, deleted messages and original versions of edited messages are
-stored for 48 hours in order to be shown in the admins log (added in Telegram
-4.1.).
+stored for 48 hours in order to be shown in the admins log (added in [Telegram
+4.1.](https://telegram.org/blog/admin-revolution#recent-admin-actions)).
 
 #### __Self-destructing messages
 
@@ -98,6 +98,9 @@ destructing-messages-work). As soon as such a message is [read](/faq#q-what-
 do-the-green-checks-mean) (2 checks appear), the countdown starts. When the
 time is out, both devices participating in a secret chat are instructed to
 delete the message (photo, video, etc.).
+
+Media with small timers (less than a minute) are shown with blurred previews.
+The timer is triggered when they are viewed.
 
 #### __Account self-destruction
 

@@ -257,17 +257,18 @@ may be accelerated upon cancellation.
 **CAN T-MOBILE CHANGE OR TERMINATE MY SERVICES OR THIS AGREEMENT?**
 
 Yes. Except as described below for Rate Plans with the price-lock guarantee
-(including the “Un-Contract Promise”), we may change, limit, suspend or
-terminate your Service or this Agreement at any time, including if you engage
-in any of the prohibited uses described here or no longer reside in a T
--Mobile-owned network coverage area. Under certain limited circumstances, we
-may also block your device from working on our network. If the change to your
-Service or Rate Plan will have a material adverse effect on you, we will
-provide 14 days’ notice of the change. You’ll agree to any change by using
-your Service after the effectiveness of the change. We may exclude certain
-types of calls, messages or sessions (e.g. conference and chat lines,
-broadcast, international, 900 or 976 calls, etc.), in our sole discretion,
-without further notice.
+(including the ["Un-Contract
+Promise"](https://www.t-mobile.com/offers/tmo_one_faqs#uncontractpromise)), we
+may change, limit, suspend or terminate your Service or this Agreement at any
+time, including if you engage in any of the prohibited uses described here or
+no longer reside in a T-Mobile-owned network coverage area. Under certain
+limited circumstances, we may also block your device from working on our
+network. If the change to your Service or Rate Plan will have a material
+adverse effect on you, we will provide 14 days’ notice of the change. You’ll
+agree to any change by using your Service after the effectiveness of the
+change. We may exclude certain types of calls, messages or sessions (e.g.
+conference and chat lines, broadcast, international, 900 or 976 calls, etc.),
+in our sole discretion, without further notice.
 
 If you are on a price-lock guaranteed Rate Plan, we will not increase your
 monthly recurring Service charge (“Recurring Charge”) for the period that

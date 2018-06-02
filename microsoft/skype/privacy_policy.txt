@@ -302,7 +302,7 @@ provide. How you can access or control your personal data will depend on which
 products you use. For example, you can:
 
   * Control the use of your data for interest-based advertising from Microsoft by visiting our opt-out page.
-  * Choose whether you wish to receive promotional emails, SMS messages, telephone calls, and postal mail from Microsoft.
+  * You can always choose whether you wish to receive promotional emails, SMS messages, telephone calls, and postal mail from Microsoft. You can also 
   * Access and clear your data through the [Microsoft privacy dashboard](https://account.microsoft.com/privacy).
 
 Full text
@@ -882,7 +882,7 @@ controllers for personal data we collect through the products subject to this
 statement. Our addresses are:
 
   * Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052, USA. Telephone: (+1) 425-882-8080. 
-  * Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland. Telephone: (+353) 1-706-4099.
+  * Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland. Telephone: (+353) 1 850 940 940.
 
 Skype Communications S.à.r.l. 23-29 Rives de Clausen L-2165 Luxembourg,
 Luxembourg is a data controller for Skype. To contact us in relation to Skype

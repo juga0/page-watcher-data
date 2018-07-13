@@ -43,8 +43,7 @@ services we provide to you. CPNI includes, for example, call details, call
 location information, and certain information about your rate plans and
 features. CPNI does not include your name, address, and phone number.
 
-For more information see [Privacy Resources/Customer Proprietary Network
-Information](/Company/PrivacyResources.aspx?tp=Abt_Tab_CPNI)
+For more information see [CPNI](/responsibility/privacy/resources/cpni)
 
 **Credit and Financial Information**
 
@@ -357,8 +356,8 @@ Based Services, which are available
 
   
 
-For more information on location services, see [Privacy Resources/Location
-Services](/Company/PrivacyResources.aspx?tp=Abt_Tab_LocationServices)
+For more information on location services, see [Location
+Services](/responsibility/privacy/resources/location-services)
 
   
 **Telematics**
@@ -425,9 +424,8 @@ applicable privacy statements that they may have, not this Statement.
   * We, and our providers, may use a de-identified profile of your web-browsing and application use activity and interests. This profile does not contain information that identifies you personally, but may include a unique or encrypted identifier that enables your device to be matched to a profile of your browsing activity and de-identified characteristics about your interests.
   * When we use information associated with your web browsing activities on websites that are not our own to provide interest-based advertising or offers, we will provide you with notice and appropriate choice.   
   
-For more information see [privacy resources/T-Mobile Ad Options for Your Devic
-e](/Company/PrivacyResources.aspx?tp=Abt_Tab_YourPrivacychoices&tsp=Abt_Sub_Ad
-Options)
+For more information see [T-Mobile Ad Options](/responsibility/privacy
+/privacy-choice/ad-options)
 
   *   
 **Choices About Advertising.**
@@ -544,9 +542,8 @@ information.
 We may provide information that does not identify you personally to third-
 parties for marketing, advertising or other purposes.
 
-For more information about our INSIGHTS Program see [Privacy
-Resources/T-Mobile INSIGHTS](/Company/PrivacyResources.aspx?tp=Abt_Tab_YourPri
-vacychoices&tsp=Abt_Sub_TmobileInsights)
+For more information about our INSIGHTS Program see [T-Mobile
+INSIGHTS](/responsibility/privacy/privacy-choice/tmo-insights)
 
 **Third-Party Applications for Your Devices**
 
@@ -559,8 +556,7 @@ party access to your location information  see Location Based Services). The
 manner in which such third-parties may use, share, or disclose such
 information is governed by the terms and conditions and privacy statement
 provided by that third party  not by this Statement. For more information,
-see [Privacy Resources/Device
-Apps](/Company/PrivacyResources.aspx?tp=Abt_Tab_ThirdParty)
+see [Device Apps](/responsibility/privacy/resources/device-apps)
 
   
 
@@ -590,8 +586,7 @@ CPNI to third-parties without your permission, except as allowed under FCC
 rules, applicable law, or explained in this Statement. However, if you are the
 primary account holder, you may designate other "authorized users" (for
 example, a spouse) to access and manage your account information, including
-CPNI. For more information see [Privacy Resources/Customer Proprietary Network
-Information](/Company/PrivacyResources.aspx?tp=Abt_Tab_CPNI)
+CPNI. For more information see [CPNI](/responsibility/privacy/resources/cpni)
 
 **Retention and Disposal**
 
@@ -635,8 +630,8 @@ contacting Customer Service by dialing 611 from your T-Mobile phone or
 1-800-937-8997 from any phone, or, with respect to marketing e-mails, by
 following the "unsubscribe" instructions on any marketing e-mail we send you.
 
-See also [Privacy Resources/Marketing
-Choice](/Company/PrivacyResources.aspx?tp=Abt_Tab_DoNotCallPolicy)
+See also [Marketing Choice](/responsibility/privacy/privacy-choice/marketing-
+choice)
 
 **Do Not Call Registry**
 
@@ -652,8 +647,8 @@ YOUR PRIVACY**
 
 You play an important role in ensuring the security of Personal Information.
 We encourage you to use safeguards to protect your information and devices.
-For more information please see [Privacy Resources/Protecting Your
-Privacy](/Company/PrivacyResources.aspx?tp=Abt_Tab_Resources).
+For more information please see [Protecting Your
+Privacy](/responsibility/privacy/privacy-choice/protecting-your-privacy).
 
   
 
@@ -662,13 +657,12 @@ SHOULD KNOW**
 
 **Consumer Code for Wireless Service**
 
-We follow the [Consumer Code for Wireless Service](http://www.ctia.org/policy-
-initiatives/voluntary-guidelines/consumer-code-for-wireless-service)
-established by the Cellular Telecommunications &amp; Internet Association
-("CTIA"). In doing so, we want to help customers understand their bills,
-receive quality service, and make informed choices and conform our information
-practices under this Statement to meet the requirements of applicable federal
-and state laws and regulations.
+We follow the [Consumer Code for Wireless Service](/responsibility/consumer-
+info/policies/consumer-code) established by the Cellular Telecommunications
+&amp; Internet Association ("CTIA"). In doing so, we want to help customers
+understand their bills, receive quality service, and make informed choices and
+conform our information practices under this Statement to meet the
+requirements of applicable federal and state laws and regulations.
 
 **Your California Privacy Rights**
 

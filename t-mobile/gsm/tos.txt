@@ -1,7 +1,9 @@
   
 
-Did you activate (or renew) service prior to August 10, 2018? If yes, please
-click the date for the applicable version of the Terms and Conditions:
+Did you activate (or renew) service prior to August 22, 2018? If yes, please
+click the date for the applicable version of the Terms and Conditions: [August
+10, 2018
+](/Templates/Popup.aspx?PAsset=Ftr_Ftr_TermsAndConditionsAug2018&print=true) |
 [September 20, 2017
 ](/Templates/Popup.aspx?PAsset=Ftr_Ftr_TermsAndConditionsSep2017&print=true) |
 [September 1, 2016
@@ -30,7 +32,7 @@ Asset=Ftr_Ftr_TermsAndConditionsJuly2011&print=true) |[July 18,
 
 **T-Mobile Terms &amp; Conditions**
 
-Effective as of August 10, 2018
+Effective as of August 22, 2018
 
 Thanks for choosing T-Mobile. Please read these Terms &amp; Conditions
 (T&amp;Cs), which contain important information about your relationship with
@@ -334,9 +336,10 @@ Leon Avenue, Floor 20, San Juan, Puerto Rico, 00918, phone: 1-787-688-5881.
 T-Mobile has chosen to offer wireless emergency alerts, within portions of its
 coverage area. Wireless alert capable handsets with appropriate notification
 settings are required for the service. There is no additional charge for these
-wireless emergency alerts. For details visit
-<https://www.t-mobile.com/responsibility/consumer-info/safety/wireless-
-emergency-alerts>.
+wireless emergency alerts. For details visit [www.t-mobile.com/responsibility
+/consumer-info/safety/wireless-emergency-
+alerts](https://www.t-mobile.com/responsibility/consumer-info/safety/wireless-
+emergency-alerts).
 
 **911 ACCESS**
 
@@ -381,6 +384,8 @@ Click here for additional terms that apply to you.
 ***HOW DO I RESOLVE DISPUTES WITH T-MOBILE?**
 
 **Dispute Resolution and Arbitration. YOU AND WE EACH AGREE THAT, EXCEPT AS PROVIDED BELOW, ANY AND ALL CLAIMS OR DISPUTES IN ANY WAY RELATED TO OR CONCERNING THE AGREEMENT, OUR PRIVACY POLICY, OUR SERVICES, DEVICES OR PRODUCTS, INCLUDING ANY BILLING DISPUTES, WILL BE RESOLVED BY BINDING ARBITRATION OR IN SMALL CLAIMS COURT.** This includes any claims against other parties relating to Services or Devices provided or billed to you (such as our suppliers, dealers, authorized retailers, or third party vendors) whenever you also assert claims against us in the same proceeding. You and we each also agree that the Agreement affects interstate commerce so that the Federal Arbitration Act and federal arbitration law, not state law, apply and govern the enforceability of this dispute resolution provision (despite the general choice of law provision set forth below). THERE IS NO JUDGE OR JURY IN ARBITRATION, AND COURT REVIEW OF AN ARBITRATION AWARD IS LIMITED. THE ARBITRATOR MUST FOLLOW THIS AGREEMENT AND CAN AWARD THE SAME DAMAGES AND RELIEF AS A COURT (INCLUDING ATTORNEYS’ FEES).
+
+**For Puerto Rico customers**, references to "small claims court" should be understood to mean the Puerto Rico Telecommunications Regulatory Board (“**TRB**”) for matters within the jurisdiction of said agency. See **OTHER TERMS REGARDING DISPUTE RESOLUTION** for details on the billing dispute process in Puerto Rico. 
 
 Notwithstanding the above, **YOU MAY CHOOSE TO PURSUE YOUR CLAIM IN COURT AND
 NOT BY ARBITRATION IF YOU OPT OUT OF THESE ARBITRATION PROCEDURES _WITHIN 30
@@ -432,6 +437,8 @@ or benefit to resolve a disputed bill or Charge, you agree that the issue is
 fully and finally resolved and T-Mobile shall be released from any and all
 liability regarding said dispute. Unless otherwise provided by law, you must
 pay disputed Charges until the dispute is resolved.
+
+**_Puerto Rico customers_**: Unless otherwise provided by law or these T&amp;Cs, for billing disputes, you must notify us not later than 20 days from the date the disputed bill was sent to you. If you don’t, you may not pursue a claim in arbitration or with the TRB. We will provide you with a determination regarding the billing dispute you present to us within 20 days after we receive it. You will have 20 days from the mailing date of the notification to request a reconsideration of our determination. You may appeal our determination to the TRB by filing a petition for review up to 30 days after the date of our determination. Your petition for review shall be made through the filing of a document containing the following information: (a) your name and address; (b) our company name; (c) the pertinent facts; (d) any applicable legal provisions that you are aware of; and (e) the remedy you are requesting. The document may be filed handwritten or typewritten and must be signed by you. You must send us a copy of your document to the following address: B-7 Calle Tabonuco Suite 7000, Guaynabo, Puerto Rico 00969, Attn: Customer Care Manager. You must send your petition for review to the Puerto Rico Telecommunications Regulatory Board at the following address: 500 Ave. Roberto H. Todd (Pda. 18 - Santurce), San Juan, Puerto Rico 00907-3941. The TRB will review our determination only on appeal. You are advised of the provisions regarding suspension of Service that appear in Law 33 of July 7, 1985, Law 213 of September 12, 1996 and Regulations 8065 promulgated on August 31, 2011 by the TRB regarding the procedures for customer’s dispute resolution and suspension of Services. 
 
 ***CHOICE OF LAW**
 
@@ -662,7 +669,7 @@ surcharges.
 
 **Taxes:** You agree to pay all taxes and fees imposed by governments or governmental entities. We may not give advance notice of changes to these charges. To determine taxes &amp; fees, we use the street address you identified as your Place of Primary Use (PPU). The PPU for **Puerto Rico customers** must be in Puerto Rico. If you did not identify the correct PPU, or if you provided an address, such as a PO Box, that is not a recognized street address, does not allow us to identify the applicable taxing jurisdiction(s) or does not reflect the Service area associated with your telephone number, you may be assigned a default location for tax purposes. Except as may be otherwise required by law, in the event you dispute your PPU or the location we assigned you and the resulting taxes or fees applied on your bill, you must request a refund of the disputed tax or fee within 60 days of the date of our bill containing such tax or fee. Regardless of any Rate Plan guarantee, taxes and fees may change from time to time without notice.
 
-**Surcharges**: You agree to pay all surcharges applicable to your Rate Plan. Surcharges are not mandated or imposed on you by law, they are T-Mobile Charges that are determined, collected and retained by us. The components and amounts of the Surcharges are subject to change without notice. Surcharges include charges, costs, fees and certain taxes that we incur to provide Services (and are not government taxes or fees imposed directly on our customers). Examples include general and administrative fees (such as certain costs we incur to provide Service) as well as governmental-related assessments (such as Federal or State Universal Service fees, regulatory or public safety charges, environmental fees, and gross receipts taxes). Surcharges assessed to you will vary depending on the type of Service and the Rate Plan you have. Surcharges will apply whether or not you benefit from the programs, activities or services included in the Surcharge. When Surcharges are assessed in connection with your Service, you can find the Surcharges detailed in either the Taxes, Fees &amp; Surcharges, T-Mobile Fees and Charges or the Other Charges sections of your bill or at www.MyT-Mobile.com. Regardless of any Rate Plan guarantee, Surcharges may change from time to time without notice.   
+**Surcharges**: You agree to pay all surcharges applicable to your Rate Plan. Surcharges are not mandated or imposed on you by law, they are T-Mobile Charges that are determined, collected and retained by us. The components and amounts of the Surcharges are subject to change without notice. Surcharges include charges, costs, fees and certain taxes that we incur to provide Services (and are not government taxes or fees imposed directly on our customers). Examples include general and administrative fees (such as certain costs we incur to provide Service) as well as governmental-related assessments (such as Federal or State Universal Service fees, regulatory or public safety charges, environmental fees, and gross receipts taxes). Surcharges assessed to you will vary depending on the type of Service and the Rate Plan you have. Surcharges will apply whether or not you benefit from the programs, activities or services included in the Surcharge. When Surcharges are assessed in connection with your Service, you can find the Surcharges detailed in either the Taxes, Fees &amp; Surcharges, T-Mobile Fees and Charges or the Other Charges sections of your bill or at www.my.T-Mobile.com. Regardless of any Rate Plan guarantee, Surcharges may change from time to time without notice.   
 
 **Additional Software License Terms**
 

@@ -450,7 +450,7 @@ request, which we will answer at the earliest opportunity.
 Telegram is an open source project. You can examine more information on our:
 
   * API at: [](https://core.telegram.org/api)<https://core.telegram.org/api>; 
-  * Bot Plaform at: [](https://core.telegram.org/bots)<https://core.telegram.org/bots>; 
+  * Bot Platform at: [](https://core.telegram.org/bots)<https://core.telegram.org/bots>; 
   * Protocol at: [](https://core.telegram.org/mtproto)<https://core.telegram.org/mtproto>; and
   * Source Code at: [](https://telegram.org/apps#source-code)<https://telegram.org/apps#source-code>.
 

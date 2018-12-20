@@ -43,10 +43,9 @@ Services are provided by Telegram, which for the purposes of applicable data
 protection legislation is the data controller responsible for your personal
 data when you use our Services. However, as Telegram is located outside the
 EEA, we have designated one of our EEA-based group companies, Telegram UK
-Holdings Ltd. (of _C/O Skadden, Arps, Slate, Meagher &amp; Flom (UK) LLP 40
-Bank Street, London, United Kingdom E14 5DS_), as a representative to whom you
-may direct any issues you have relating to our processing of your personal
-data.
+Holdings Ltd (71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ),
+as a representative to whom you may direct any issues you have relating to our
+processing of your personal data.
 
 ### __2\. Legal Ground for Processing Your Personal Data
 

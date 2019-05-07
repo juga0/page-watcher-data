@@ -247,7 +247,7 @@ as a secure and feature-rich cloud service.
 
 Telegram has an API that allows third-party developers to create
 [bots](https://core.telegram.org/bots). Bots are apps that look like special
-Telegram users: you can talk to them from your chats list, add them to groups
+Telegram users: you can talk to them from your chat list, add them to groups
 or use a special [“inline”](https://telegram.org/blog/inline-bots) interface
 to access their features. By performing any of these actions, you will be
 sending some of your data to the respective third-party bot developers.

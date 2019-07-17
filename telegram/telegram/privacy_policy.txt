@@ -146,6 +146,12 @@ who could benefit most from joining Telegram.
 You can always stop syncing contacts or delete them from our servers in
 Settings &gt; Privacy &amp; Security &gt; Data Settings.
 
+> If you are using Android, Telegram will ask you for permission to access
+your phone call logs (READ_CALL_LOG). If you grant this permission, Telegram
+will be able verify your account by transmitting a phone call instead of
+asking you to enter a code. Telegram uses this permission only to confirm
+receipt of the confirmation call by verifying the number in the call log.
+
 ##### __3.3.6. Cookies
 
 The only cookies we use are those to operate and provide our Services on the

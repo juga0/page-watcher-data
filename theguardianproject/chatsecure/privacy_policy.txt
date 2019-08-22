@@ -1,6 +1,6 @@
 This document is modeled after the [Creative Commons Privacy
-Policy](http://automattic.com/privacy/) from
-[Automattic](http://automattic.com).
+Policy](https://automattic.com/privacy/) from
+[Automattic](https://automattic.com).
 
 ## Website Visitors
 
@@ -14,7 +14,7 @@ release non-personally-identifying information in the aggregate, e.g., by
 publishing a report on trends in the usage of its website.
 
 To protect your privacy, we recommend using a browser plugin to block 3rd
-party tracking services, such as [Ghostery](http://www.ghostery.com).
+party tracking services, such as [Ghostery](https://www.ghostery.com).
 
 ## Mobile Apps
 
@@ -93,7 +93,7 @@ websites may not function properly without the aid of cookies.
 ChatSecure uses Google Analytics on chatsecure.org to help us monitor the
 number of people who visit the site. We also include social sharing widgets
 that are bundled with our blogging theme. We recommend using a browser plugin
-like [Ghostery](http://www.ghostery.com) to opt-out.
+like [Ghostery](https://www.ghostery.com) to opt-out.
 
 ## Business Transfers
 

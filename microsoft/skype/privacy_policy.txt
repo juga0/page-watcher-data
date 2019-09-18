@@ -1,6 +1,6 @@
 # Microsoft Privacy Statement
 
-Last Updated: August 2019[ What's new?
+Last Updated: September 2019[ What's new?
 ](https://go.microsoft.com/fwlink/p/?LinkId=780766 "What's new?" )
 
 __Expand All__Collapse All
@@ -600,12 +600,13 @@ of data collection or use by some of these analytics providers by clicking any
 of the following links: [Adjust](https://www.adjust.com/opt-out/),
 [AppsFlyer](https://www.appsflyer.com/optout),
 [Clicktale](http://www.clicktale.net/disable.html), [Flurry
-Analytics](https://aim.yahoo.com/aim/us/en/optout/), [Google
+Analytics](https://developer.yahoo.com/flurry/end-user-opt-out/), [Google
 Analytics](http://tools.google.com/dlpage/gaoptout) (requires you to install a
-browser add-on), [Kissmetrics](https://kissmetrics.com/user-privacy),
+browser add-on),
+[Kissmetrics](https://signin.kissmetrics.com/privacy/#controls),
 [Mixpanel](https://mixpanel.com/optout), [Nielsen](http://www.nielsen-
-online.com/corp.jsp?section=leg_prs&nav=1#Optoutchoices), [Visible
-Measures](https://www.visiblemeasures.com/viewer-settings-opt-out), or
+online.com/corp.jsp?section=leg_prs&nav=1#Optoutchoices), [Acuity
+Ads](https://www.acuityads.com/opt-out/), or
 [WebTrends](https://ondemand.webtrends.com/support/optout.asp).
 
 **Other similar technologies**
@@ -651,6 +652,15 @@ more about the social features and other functionality, please review
 documentation or help content specific to the Microsoft product. Microsoft is
 not responsible for the privacy or security practices of our customers, which
 may differ from those set forth in this privacy statement.
+
+For Microsoft products provided by your K-12 school, including Microsoft 365
+Education, Microsoft will:
+
+  * not collect or use student personal data beyond that needed for authorized educational or school purposes;
+  * not sell or rent student personal data;
+  * not use or share student personal data for advertising or similar commercial purposes, such as behavioral targeting of advertisements to students; 
+  * not build a personal profile of a student, other than for supporting authorized educational or school purposes or as authorized by the parent, guardian, or student of appropriate age; and 
+  * require that our vendors with whom student personal data is shared to deliver the educational service, if any, are obligated to implement these same commitments for student personal data.
 
 Microsoft accountMicrosoft accountmainmicrosoftaccountmodule
 
@@ -2210,11 +2220,11 @@ Summary
 
 The Your Phone app lets you link your Android phone with your Windows device,
 enabling a variety of cross-device experiences. You can use Your Phone to see
-recent photos from your Android phone on your Windows device; view and send
-text messages from your Windows device; view, dismiss, or perform other
-actions to your Android phone notifications from your Windows device; and
-share your phone screen on your Windows device through Your Phone’s mirroring
-function.
+recent photos from your Android phone on your Windows device; make and receive
+calls from your Android phone on your Windows device; view and send text
+messages from your Windows device; view, dismiss, or perform other actions to
+your Android phone notifications from your Windows device; and share your
+phone screen on your Windows device through Your Phone’s mirroring function.
 
 To use Your Phone, the Your Phone app must be installed on your Windows device
 and the Your Phone Companion app must be installed on your Android phone. Upon
@@ -2244,6 +2254,8 @@ updating the Settings on your Android phone. For detailed information, see
 -your-phone-app-help).
 
 **Text Messages**. Your Phone allows you to view text messages delivered to your Android phone on your Windows device and send text messages from your Windows device. Only text messages received and sent within the last 30 days are visible on your Windows device. These text messages are temporarily stored on your Windows device. We never store your text messages on our servers or change or delete any text messages on your Android phone. You can see messages sent via SMS (Short Message Service) and MMS (Multimedia Messaging Service) but not messages sent via RCS (Rich Communication Services). To provide this functionality, Your Phone accesses the content of your text messages and the contact information of the individuals or businesses from whom you are receiving or sending text messages. 
+
+**Calls**. Your Phone allows you to make and receive calls from your Android phone on your Windows device. Through Your Phone, you can also view your recent calls on your Windows device. To activate this feature, you must enable certain permissions on both your Windows device and Android phone, such as call logs access and permission to make phone calls from your PC. These permissions can be revoked at any time under the Your Phone Settings page on your Windows device and your Android phone's settings. Only calls received and dialed within the last 30 days are visible under call logs on your Windows device. These call details are temporarily stored on your Windows device. We do not change or delete your call history on your Android phone. 
 
 **Photos**. Your Phone allows you to copy, share or edit photos from your Android phone on your Windows device. Only a limited number of your most recent photos from the Camera Roll and Screenshots folders on your Android phone will be visible on your Windows device at any given time. These photos are temporarily stored on your Windows device and as you take more photos on your Android phone, we remove the temporary copies of the older photos from your Windows device. We never store your photos on our servers or change or delete any photos on your Android phone. 
 

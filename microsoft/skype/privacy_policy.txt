@@ -44,7 +44,7 @@ Contact us
 
 If you have a privacy concern, complaint, or question for the Microsoft Chief
 Privacy Officer or EU Data Protection Officer, please contact us by using our
-[web form](http://go.microsoft.com/fwlink/?LinkId=321116). For more
+[web form](https://go.microsoft.com/fwlink/?LinkId=321116). For more
 information about contacting Microsoft, including Microsoft Ireland Operations
 Limited, see the [How to contact
 us](https://privacy.microsoft.com/privacystatement#mainhowtocontactusmodule)
@@ -356,7 +356,7 @@ personal data will be limited, as required or permitted by applicable law. How
 you can access or control your personal data will also depend on which
 products you use. For example, you can:
 
-  * Control the use of your data for interest-based advertising from Microsoft by visiting our [opt-out page](http://go.microsoft.com/fwlink/?LinkID=286759).
+  * Control the use of your data for interest-based advertising from Microsoft by visiting our [opt-out page](https://go.microsoft.com/fwlink/?LinkID=286759).
   * Choose whether you wish to receive promotional emails, SMS messages, telephone calls, and postal mail from Microsoft.
   * Access and clear some of your data through the [Microsoft privacy dashboard](https://account.microsoft.com/privacy).
 
@@ -381,7 +381,7 @@ personal data will be limited, as required or permitted by applicable law. How
 you can access or control your personal data will also depend on which
 products you use. For example, you can:
 
-  * Control the use of your data for interest-based advertising from Microsoft by visiting our [opt-out page](http://go.microsoft.com/fwlink/?LinkID=286759).
+  * Control the use of your data for interest-based advertising from Microsoft by visiting our [opt-out page](https://go.microsoft.com/fwlink/?LinkID=286759).
   * Choose whether you wish to receive promotional emails, SMS messages, telephone calls, and postal mail from Microsoft.
   * Access and clear some of your data through the [Microsoft privacy dashboard](https://account.microsoft.com/privacy).
 
@@ -431,9 +431,9 @@ control your personal data; specific products may provide additional controls.
   * **Microsoft account**. If you wish to access, edit, or remove the profile information and payment information in your Microsoft account, change your password, add security information or close your account, you can do so by visiting the [Microsoft account website](https://account.microsoft.com/).
   * **Volume Licensing Service Center (VLSC)**. If you are a Volume Licensing customer, you can control your contact information and subscription and licensing data in one location by visiting the [Volume Licensing Service Center website](https://www.microsoft.com/Licensing/servicecenter/default.aspx).
   * **Skype**. If you wish to access, edit, or remove some profile and payment information for Skype or change your password, [sign in to your account](https://login.skype.com/login). If you wish to export your Skype chat history and files shared on Skype, [you can request a copy](https://go.skype.com/export).
-  * **Xbox**. If you use Xbox Live or Xbox.com, you can view or edit your personal data, including billing and account information, privacy settings, and online safety and data sharing preferences by accessing [My Xbox](http://live.xbox.com/MyXbox/Profile) on the Xbox console or on the Xbox.com website.
+  * **Xbox**. If you use Xbox Live or Xbox.com, you can view or edit your personal data, including billing and account information, privacy settings, and online safety and data sharing preferences by accessing [My Xbox](https://live.xbox.com/MyXbox/Profile) on the Xbox console or on the Xbox.com website.
   * **Microsoft Store**. You can access your Microsoft Store profile and account information by visiting [Microsoft Store](https://www.microsoftstore.com/) and selecting **View account** or **Order history**.
-  * **Microsoft.com**. You can access and update your profile on microsoft.com by visiting your [Microsoft account profile page](http://go.microsoft.com/?linkid=317027).
+  * **Microsoft.com**. You can access and update your profile on microsoft.com by visiting your [Microsoft account profile page](https://go.microsoft.com/?linkid=317027).
   * If you have a **Microsoft Developer Network** (MSDN) public profile, you can access and edit your data by signing in at [MSDN forum](https://social.msdn.microsoft.com/Forums/MSDNForum).
 
 Not all personal data processed by Microsoft can be accessed or controlled via
@@ -441,7 +441,7 @@ the tools above. If you want to access or control personal data processed by
 Microsoft that is not available via the tools above or directly through the
 Microsoft products you use, you can always contact Microsoft at the address in
 the How to contact us section or by using our [web
-form](http://go.microsoft.com/fwlink/?LinkId=321116). We will respond to
+form](https://go.microsoft.com/fwlink/?LinkId=321116). We will respond to
 requests to control your personal data within 30 days.
 
 **Your communications preferences **
@@ -457,7 +457,7 @@ where you can update contact information, manage Microsoft-wide contact
 preferences, opt out of email subscriptions, and choose whether to share your
 contact information with Microsoft partners. If you do not have a personal
 Microsoft account, you can manage your Microsoft email contact preferences by
-using this [web form](http://go.microsoft.com/fwlink/?LinkId=243189). These
+using this [web form](https://go.microsoft.com/fwlink/?LinkId=243189). These
 choices do not apply to mandatory service communications that are part of
 certain Microsoft products, programs, activities, or to surveys or other
 informational communications that have their own unsubscribe method.
@@ -465,7 +465,7 @@ informational communications that have their own unsubscribe method.
 **Your advertising choices**
 
 To opt out of receiving interest-based advertising from Microsoft, visit our
-[opt-out page](http://go.microsoft.com/fwlink/?LinkID=286759). When you opt
+[opt-out page](https://go.microsoft.com/fwlink/?LinkID=286759). When you opt
 out, your preference is stored in a cookie that is specific to the web browser
 you are using. The opt-out cookie has an expiration date of five years. If you
 delete the cookies on your device, you need to opt out again.
@@ -627,13 +627,13 @@ directly identifies you (such as your name or email address). You can opt out
 of data collection or use by some of these analytics providers by clicking any
 of the following links: [Adjust](https://www.adjust.com/opt-out/),
 [AppsFlyer](https://www.appsflyer.com/optout),
-[Clicktale](http://www.clicktale.net/disable.html), [Flurry
+[Clicktale](https://www.clicktale.net/disable.html), [Flurry
 Analytics](https://developer.yahoo.com/flurry/end-user-opt-out/), [Google
-Analytics](http://tools.google.com/dlpage/gaoptout) (requires you to install a
-browser add-on),
+Analytics](https://tools.google.com/dlpage/gaoptout) (requires you to install
+a browser add-on),
 [Kissmetrics](https://signin.kissmetrics.com/privacy/#controls),
-[Mixpanel](https://mixpanel.com/optout), [Nielsen](http://www.nielsen-
-online.com/corp.jsp?section=leg_prs&nav=1#Optoutchoices), [Acuity
+[Mixpanel](https://mixpanel.com/optout), [Nielsen](https://priv-
+policy.imrworldwide.com/priv/browser/us/en/optout.html), [Acuity
 Ads](https://www.acuityads.com/opt-out/),
 [WebTrends](https://ondemand.webtrends.com/support/optout.asp) or
 [Optimizely](https://www.optimizely.com/legal/opt-out/).
@@ -648,7 +648,7 @@ these technologies can also store a unique identifier for your computer, which
 can then track behavior. These technologies include Local Shared Objects (or
 "Flash cookies") and Silverlight Application Storage.
 
-**Local Shared Objects or "Flash cookies."** Websites that use Adobe Flash technologies can use Local Shared Objects or "Flash cookies" to store data on your computer. To learn how to manage or block Flash cookies, go to the [Flash Player help page](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
+**Local Shared Objects or "Flash cookies."** Websites that use Adobe Flash technologies can use Local Shared Objects or "Flash cookies" to store data on your computer. To learn how to manage or block Flash cookies, go to the [Flash Player help page](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
 
 **Silverlight Application Storage**. Websites or applications that use Microsoft Silverlight technology also have the ability to store data by using Silverlight Application Storage. To learn how to manage or block such storage, see the Silverlight section of this privacy statement.
 
@@ -855,7 +855,7 @@ visit the [Privacy Shield website](https://www.privacyshield.gov/).
 
 If you have a question or complaint related to participation by Microsoft in
 the EU-U.S. or Swiss-U.S. Privacy Shield, we encourage you to contact us via
-our [web form](http://go.microsoft.com/fwlink/?LinkId=321116). For any
+our [web form](https://go.microsoft.com/fwlink/?LinkId=321116). For any
 complaints related to the Privacy Shield frameworks that Microsoft cannot
 resolve directly, we have chosen to cooperate with the relevant EU Data
 Protection Authority, or a panel established by the European data protection
@@ -908,7 +908,7 @@ If you have a Microsoft account, you must exercise your rights through the
 requires you to log in to your Microsoft account. If you have an additional
 request or questions after using the dashboard, you may contact Microsoft at
 the address in the How to contact us section or use our [web
-form](http://go.microsoft.com/fwlink/?LinkId=321116). If you do not have an
+form](https://go.microsoft.com/fwlink/?LinkId=321116). If you do not have an
 account, you may exercise your rights by contacting us as described above. We
 may ask for additional information, such as your country of residence, email
 address, and phone number, to validate your request before honoring the
@@ -1017,15 +1017,15 @@ Edge, or when visiting third-party websites or apps, go to your dashboard at
 Further details regarding our advertising-related uses of data include:
 
   * **Advertising industry best practices and commitments**. Microsoft is a member of the [Network Advertising Initiative](https://www.networkadvertising.org/) (NAI) and adheres to the NAI Code of Conduct. We also adhere to the following self-regulatory programs: 
-    * In the US: [Digital Advertising Alliance (DAA)](http://www.aboutads.info/)
-    * In Europe: [European Interactive Digital Advertising Alliance (EDAA)](http://www.youronlinechoices.com/)
-    * In Canada: [Ad Choices: Digital Advertising Alliance of Canada (DAAC)](http://www.youradchoices.ca)/ [Choix de Pub: l'Alliance de la publicité numérique du Canada (DAAC)](http://www.youradchoices.ca/fr)
+    * In the US: [Digital Advertising Alliance (DAA)](https://www.aboutads.info/)
+    * In Europe: [European Interactive Digital Advertising Alliance (EDAA)](https://www.youronlinechoices.com/)
+    * In Canada: [Ad Choices: Digital Advertising Alliance of Canada (DAAC)](https://www.youradchoices.ca)/ [Choix de Pub: l'Alliance de la publicité numérique du Canada (DAAC)](https://www.youradchoices.ca/fr)
   * **Health-related ad targeting**. In the United States, we provide personalized advertising based on a limited number of standard, non-sensitive health-related interest categories, including allergies, arthritis, cholesterol, cold and flu, diabetes, gastrointestinal health, headache / migraine, healthy eating, healthy heart, men’s health, oral health, osteoporosis, skin health, sleep, and vision / eye care. We will also personalize ads based on custom, non-sensitive health-related interest categories as requested by advertisers.
   * **Children and advertising**. We do not deliver personalized advertising to children whose birthdate in their Microsoft account identifies them as under 16 years of age.
   * **Data retention**. For personalized advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer.
   * **Data sharing**. In some cases, we share with advertisers reports about the data we have collected on their sites or ads.
 
-**Data collected by other advertising companies**. Advertisers sometimes include their own web beacons (or those of their other advertising partners) within their advertisements that we display, enabling them to set and read their own cookie. Additionally, Microsoft partners with third-party ad companies to help provide some of our advertising services, and we also allow other third-party ad companies to display advertisements on our sites. These third parties may place cookies on your computer and collect data about your online activities across websites or online services. These companies currently include, but are not limited to: [AppNexus](http://www.appnexus.com/), [Facebook](https://www.facebook.com/help/568137493302217), [Media.net](https://www.media.net/adchoices), [Outbrain](https://my.outbrain.com/recommendations-settings/home), [Taboola](https://www.taboola.com/privacy-policy#user-choices-and-optout) and [Verizon Media](https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html). Select any of the preceding links to find more information on each company's practices, including the choices it offers. Many of these companies are also members of the [NAI](http://www.networkadvertising.org/managing/opt_out.aspx) or [DAA](http://www.aboutads.info/choices/), which each provide a simple way to opt out of ad targeting from participating companies.
+**Data collected by other advertising companies**. Advertisers sometimes include their own web beacons (or those of their other advertising partners) within their advertisements that we display, enabling them to set and read their own cookie. Additionally, Microsoft partners with third-party ad companies to help provide some of our advertising services, and we also allow other third-party ad companies to display advertisements on our sites. These third parties may place cookies on your computer and collect data about your online activities across websites or online services. These companies currently include, but are not limited to: [AppNexus](https://www.appnexus.com/), [Facebook](https://www.facebook.com/help/568137493302217), [Media.net](https://www.media.net/adchoices), [Outbrain](https://my.outbrain.com/recommendations-settings/home), [Taboola](https://www.taboola.com/privacy-policy#user-choices-and-optout) and [Verizon Media](https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html). Select any of the preceding links to find more information on each company's practices, including the choices it offers. Many of these companies are also members of the [NAI](https://www.networkadvertising.org/managing/opt_out.aspx) or [DAA](https://www.aboutads.info/choices/), which each provide a simple way to opt out of ad targeting from participating companies.
 
 Collection of data from childrenCollection of data from
 childrenmaincollectionofdatafromchildrenmodule
@@ -1080,7 +1080,7 @@ transparency or in response to:
 
 When we post changes to this statement, we will revise the "last updated" date
 at the top of the statement and describe the changes on the [Change
-history](http://go.microsoft.com/fwlink/p/?LinkId=780766) page. If there are
+history](https://go.microsoft.com/fwlink/p/?LinkId=780766) page. If there are
 material changes to the statement, such as a change to the purposes of
 processing of personal data that is not consistent with the purpose for which
 it was originally collected, we will notify you either by prominently posting
@@ -1094,7 +1094,7 @@ Summary
 
 If you have a privacy concern, complaint, or question for the Microsoft Chief
 Privacy Officer or EU Data Protection Officer, please contact us by using our
-[web form](http://go.microsoft.com/fwlink/?LinkId=321116). We will respond to
+[web form](https://go.microsoft.com/fwlink/?LinkId=321116). We will respond to
 questions or concerns within 30 days. You can also raise a concern or lodge a
 complaint with a data protection authority or other official with
 jurisdiction.
@@ -1110,17 +1110,17 @@ addresses are:
 
 To find the Microsoft subsidiary in your country or region, see the list of
 [Microsoft office locations around the
-world](http://www.microsoft.com/worldwide/).
+world](https://www.microsoft.com/worldwide/).
 
 Where French law applies, you can also send us specific instructions regarding
 the use of your personal data after your death, by using our [web
-form](http://go.microsoft.com/fwlink/?LinkId=321116).
+form](https://go.microsoft.com/fwlink/?LinkId=321116).
 
 If you have a technical or support question, please visit [Microsoft
-Support](http://support.microsoft.com) to learn more about Microsoft Support
+Support](https://support.microsoft.com) to learn more about Microsoft Support
 offerings. If you have a personal Microsoft account password question, please
 visit [Microsoft account
-support](http://go.microsoft.com/FWLink/p/?LinkID=320207).
+support](https://go.microsoft.com/FWLink/p/?LinkID=320207).
 
 Enterprise and developer productsEnterprise and developer
 productsmainenterprisedeveloperproductsmodule
@@ -1232,7 +1232,7 @@ Microsoft SQL Server is a relational database management platform and includes
 products that can be installed separately (such as SQL Server Management
 Studio). For detailed information about what data we collect, how we use it,
 and how to manage your privacy options, visit the [SQL Server privacy
-page](http://go.microsoft.com/fwlink/?linkid=868444). If you work in an
+page](https://go.microsoft.com/fwlink/?linkid=868444). If you work in an
 organization, your administrator can set certain telemetry settings in SQL
 Server via Group Policy.
 
@@ -1263,7 +1263,7 @@ an organization, your administrator may turn off or disable these connected
 services. Prior to Office 365 version 1904, you can change your privacy
 settings in the Privacy Options of the Microsoft Office Trust Center. For more
 information, see [View my options and settings in the Microsoft Office Trust
-Center](http://go.microsoft.com/fwlink/?LinkId=624445). Starting with Version
+Center](https://go.microsoft.com/fwlink/?LinkId=624445). Starting with Version
 1904 of Office 365, you can access new, updated, and improved privacy controls
 by selecting **File** &gt; **Account** &gt; **Account Privacy**. See [Account
 Privacy Settings](https://go.microsoft.com/fwlink/?linkid=2086538) for more
@@ -1561,7 +1561,7 @@ You can manage what data Cortana uses or remembers about you in Cortana
 Settings, Permissions, Notebook, and the [Microsoft privacy
 dashboard](https://account.microsoft.com/privacy). More about Cortana features
 and how to manage them can be found at [Cortana and
-privacy](http://go.microsoft.com/fwlink/?linkid=522360).
+privacy](https://go.microsoft.com/fwlink/?linkid=522360).
 
 The data Cortana collects is used to provide, improve, personalize, and
 develop Cortana and other Microsoft products. For example:
@@ -1822,7 +1822,7 @@ or others to access and process your data from that device, including your
 interaction data, diagnostic data, and the contents of your communications and
 files. For more information about data collection and privacy in Windows, see
 [Windows 10 and your online
-services](http://go.microsoft.com/fwlink/?LinkId=529552). Earlier versions of
+services](https://go.microsoft.com/fwlink/?LinkId=529552). Earlier versions of
 Windows (including Windows Vista, Windows 7, Windows 8, and Windows 8.1) are
 subject to their own privacy statements.
 
@@ -2172,7 +2172,7 @@ Allowing Cortana to use voice activation and respond to “Hey Cortana” means
 your voice data will be collected and used in the aggregate to help improve
 our ability to correctly recognize all users’ speech. For more information
 about Cortana’s features and how to manage them, see [Cortana and
-privacy](http://go.microsoft.com/fwlink/?linkid=522360). Microsoft does not
+privacy](https://go.microsoft.com/fwlink/?linkid=522360). Microsoft does not
 collect voice recordings on behalf of any third-party apps for which you have
 allowed voice activation.
 
@@ -2495,7 +2495,7 @@ of your sessions on Your Phone, and the amount of time you spent during setup.
 
 You can unlink your Android phone from your Windows device at any time by
 logging in with your Microsoft account at
-[accounts.microsoft.com/devices](http://accounts.microsoft.com/devices) and
+[accounts.microsoft.com/devices](https://accounts.microsoft.com/devices) and
 updating the Settings on your Android phone. For detailed information, see
 [our support page](https://support.microsoft.com/en-us/help/4459358/windows-10
 -your-phone-app-help).
@@ -2569,7 +2569,7 @@ curated gaming and entertainment experience. This includes connecting you to
 games, content, and services, as well as presenting you with offers,
 discounts, and recommendations.
 
-**Xbox Live data viewable by other users**. Your gamertag, game and play statistics, achievements, presence (whether you're currently signed in to Xbox Live), content you share, and other data about your activity on Xbox Live can be seen by other users on Xbox Live, users of third-party services you have linked your profile to, or on other properties associated with Xbox Live (including those of partner companies). For example, your gamertag and scores that show on game leaderboards are considered public and can't be hidden. For other data, like presence, you can adjust your privacy settings on the console or at [xbox.com](http://www.xbox.com/) to limit or block sharing with the public or even with friends. 
+**Xbox Live data viewable by other users**. Your gamertag, game and play statistics, achievements, presence (whether you're currently signed in to Xbox Live), content you share, and other data about your activity on Xbox Live can be seen by other users on Xbox Live, users of third-party services you have linked your profile to, or on other properties associated with Xbox Live (including those of partner companies). For example, your gamertag and scores that show on game leaderboards are considered public and can't be hidden. For other data, like presence, you can adjust your privacy settings on the console or at [xbox.com](https://www.xbox.com/) to limit or block sharing with the public or even with friends. 
 
 **Xbox Live data shared with game or app publishers**. When you use an Xbox Live-enabled game or any network-connected app through your Xbox console, PC or mobile device, the publisher for that game or app has access to data about your usage of Xbox Live and its game or app so it may deliver and improve its product and provide support. This data may include your Xbox user ID and gamertag, limited account information such as country and age range, data about your in game communications, enforcement activity, game-play sessions (for example, moves made in-game, types of vehicles used in-game), your presence on Xbox Live, the time you spend playing the game or app, rankings, statistics, gamer profiles, avatars or gamerpics, friends lists, activity feed, club memberships, and content that you may create or submit within the game or app. Third-party game and app publishers are independent controllers of this data and its use is subject to their privacy policies. You should carefully review their policies to determine how they will use the data. For example, publishers may choose to disclose or display game data (such as on leaderboards) through their own services. To learn more about our data-sharing practices with third-party publishers, see [Data Sharing with Games and Apps](https://www.xbox.com/Legal/ThirdPartyDataSharing).
 
@@ -2590,13 +2590,13 @@ and-xbox-one-privacy).
 
 **Captioning**. During Xbox Live real-time chat, players may activate a voice-to-text feature, which allows the user to view the audio in-game chat as text. If a user activates this feature, the other players will have no additional notice. Microsoft uses this data to provide captioning of chat for users who need it as well as the other purposes described in this privacy statement.
 
-**Communications monitoring**. Xbox Live includes communications features such as text and voice direct messaging and real-time text and voice chat. In order to help provide a safe gaming environment and enforce the [Microsoft Code of Conduct](http://www.xbox.com/en-US/legal/codeofconduct), we collect and monitor direct messaging, and text communications in live-hosted multiplayer gameplay sessions and other features of the service, such as activity feeds and clubs. 
+**Communications monitoring**. Xbox Live includes communications features such as text and voice direct messaging and real-time text and voice chat. In order to help provide a safe gaming environment and enforce the [Microsoft Code of Conduct](https://www.xbox.com/en-US/legal/codeofconduct), we collect and monitor direct messaging, and text communications in live-hosted multiplayer gameplay sessions and other features of the service, such as activity feeds and clubs. 
 
 **Voice data for service improvement**. We collect and use for service improvement voice search requests or samples of voice commands occurring while using Kinect or Cortana. This data is stored separately from your Xbox profile. 
 
 **GameDVR**. Any player in a multiplayer game session can use GameDVR to record their view of the gameplay taking place in that session. The recording can capture your in-game character and gamertag in the game clips created by other players in the gameplay session. Note that if a player uses GameDVR on a PC, audio chat may also be captured in a game clip. 
 
-**Children and online safety**. If you have children or teenagers who use Xbox Live, you can set up child and teen profiles for them. Children and teens under 18 cannot create a profile on Xbox Live without parental consent. Adults in the family can change consent choices and online safety settings for child and teen profiles on [xbox.com](http://www.xbox.com/). 
+**Children and online safety**. If you have children or teenagers who use Xbox Live, you can set up child and teen profiles for them. Children and teens under 18 cannot create a profile on Xbox Live without parental consent. Adults in the family can change consent choices and online safety settings for child and teen profiles on [xbox.com](https://www.xbox.com/). 
 
 Microsoft StoreMicrosoft Storemainwindowsstoremodule
 
@@ -2655,7 +2655,7 @@ settings in other Microsoft services that include MSN services. We also use
 the data we collect to provide you with advertisements that may be of interest
 to you. You can opt out of interest-based advertising through the advertising
 links within MSN services, or by visiting the Microsoft [opt-out
-page](http://go.microsoft.com/fwlink/?LinkID=286759).
+page](https://go.microsoft.com/fwlink/?LinkID=286759).
 
 Previous versions of MSN Money allow you to access personal finance
 information from third-party financial institutions. MSN Money only displays
@@ -2776,7 +2776,7 @@ Contact us
 
 If you have a privacy concern, complaint, or question for the Microsoft Chief
 Privacy Officer or EU Data Protection Officer, please contact us by using our
-[web form](http://go.microsoft.com/fwlink/?LinkId=321116). For more
+[web form](https://go.microsoft.com/fwlink/?LinkId=321116). For more
 information about contacting Microsoft, including Microsoft Ireland Operations
 Limited, see the [How to contact
 us](https://privacy.microsoft.com/privacystatement#mainhowtocontactusmodule)

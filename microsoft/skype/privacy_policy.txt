@@ -1,6 +1,6 @@
 # Microsoft Privacy Statement
 
-Last Updated: April 2020[ What's new?
+Last Updated: May 2020[ What's new?
 ](https://go.microsoft.com/fwlink/p/?LinkId=780766 "What's new?" )
 
 __Expand All__Collapse All
@@ -44,7 +44,7 @@ Contact us
 
 If you have a privacy concern, complaint, or question for the Microsoft Chief
 Privacy Officer or EU Data Protection Officer, please contact us by using our
-[web form](https://go.microsoft.com/fwlink/?LinkId=321116). For more
+[web form](https://go.microsoft.com/fwlink/p/?linkid=2126612). For more
 information about contacting Microsoft, including Microsoft Ireland Operations
 Limited, see the [How to contact
 us](https://privacy.microsoft.com/privacystatement#mainhowtocontactusmodule)
@@ -366,7 +366,7 @@ the tools above. If you want to access or control personal data processed by
 Microsoft that is not available via the tools above or directly through the
 Microsoft products you use, you can always contact Microsoft at the address in
 the How to contact us section or by using our [web
-form](https://go.microsoft.com/fwlink/?LinkId=321116).
+form](https://go.microsoft.com/fwlink/?linkid=2126612).
 
 We provide aggregate metrics about user requests to exercise their data
 protection rights via the [Microsoft Privacy
@@ -391,7 +391,7 @@ the tools above. If you want to access or control personal data processed by
 Microsoft that is not available via the tools above or directly through the
 Microsoft products you use, you can always contact Microsoft at the address in
 the How to contact us section or by using our [web
-form](https://go.microsoft.com/fwlink/?LinkId=321116).
+form](https://go.microsoft.com/fwlink/?linkid=2126612).
 
 We provide aggregate metrics about user requests to exercise their data
 protection rights via the [Microsoft Privacy
@@ -442,7 +442,7 @@ the tools above. If you want to access or control personal data processed by
 Microsoft that is not available via the tools above or directly through the
 Microsoft products you use, you can always contact Microsoft at the address in
 the How to contact us section or by using our [web
-form](https://go.microsoft.com/fwlink/?LinkId=321116). We will respond to
+form](https://go.microsoft.com/fwlink/p/?linkid=2126612). We will respond to
 requests to control your personal data within 30 days.
 
 **Your communications preferences **
@@ -856,7 +856,7 @@ visit the [Privacy Shield website](https://www.privacyshield.gov/).
 
 If you have a question or complaint related to participation by Microsoft in
 the EU-U.S. or Swiss-U.S. Privacy Shield, we encourage you to contact us via
-our [web form](https://go.microsoft.com/fwlink/?LinkId=321116). For any
+our [web form](https://go.microsoft.com/fwlink/p/?linkid=2126612). For any
 complaints related to the Privacy Shield frameworks that Microsoft cannot
 resolve directly, we have chosen to cooperate with the relevant EU Data
 Protection Authority, or a panel established by the European data protection
@@ -909,10 +909,10 @@ If you have a Microsoft account, you must exercise your rights through the
 requires you to log in to your Microsoft account. If you have an additional
 request or questions after using the dashboard, you may contact Microsoft at
 the address in the How to contact us section or use our [web
-form](https://go.microsoft.com/fwlink/?LinkId=321116). If you do not have an
-account, you may exercise your rights by contacting us as described above. We
-may ask for additional information, such as your country of residence, email
-address, and phone number, to validate your request before honoring the
+form](https://go.microsoft.com/fwlink/p/?linkid=2126612). If you do not have
+an account, you may exercise your rights by contacting us as described above.
+We may ask for additional information, such as your country of residence,
+email address, and phone number, to validate your request before honoring the
 request.
 
 You have a right not to receive discriminatory treatment if you exercise your
@@ -1095,9 +1095,9 @@ Summary
 
 If you have a privacy concern, complaint, or question for the Microsoft Chief
 Privacy Officer or EU Data Protection Officer, please contact us by using our
-[web form](https://go.microsoft.com/fwlink/?LinkId=321116). We will respond to
-questions or concerns within 30 days. You can also raise a concern or lodge a
-complaint with a data protection authority or other official with
+[web form](https://go.microsoft.com/fwlink/p/?linkid=2126612). We will respond
+to questions or concerns within 30 days. You can also raise a concern or lodge
+a complaint with a data protection authority or other official with
 jurisdiction.
 
 When Microsoft is a controller, unless otherwise stated, Microsoft Corporation
@@ -1115,7 +1115,7 @@ world](https://www.microsoft.com/worldwide/).
 
 Where French law applies, you can also send us specific instructions regarding
 the use of your personal data after your death, by using our [web
-form](https://go.microsoft.com/fwlink/?LinkId=321116).
+form](https://go.microsoft.com/fwlink/p/?linkid=2126612).
 
 If you have a technical or support question, please visit [Microsoft
 Support](https://support.microsoft.com) to learn more about Microsoft Support
@@ -1236,6 +1236,19 @@ and how to manage your privacy options, visit the [SQL Server privacy
 page](https://go.microsoft.com/fwlink/?linkid=868444). If you work in an
 organization, your administrator can set certain telemetry settings in SQL
 Server via Group Policy.
+
+**HoloLens**. HoloLens headsets are self-contained Windows computers with Wi-Fi connectivity that enable a mixed reality experience for apps and solutions. Microsoft collects diagnostic data to solve problems and to keep Windows running on HoloLens up to date, secure, and operating properly. Diagnostic data also helps us improve HoloLens and related Microsoft products and services depending on the diagnostic data settings you’ve chosen for your device. Learn more about Windows diagnostic data.
+
+HoloLens also processes and collects data related to the HoloLens experience
+and device, which include cameras, microphones, and infrared sensors that
+enable motions and voice to navigate.
+
+  * If you choose, cameras can be used to sign you in automatically using your iris. To do this, HoloLens takes an image of your iris and measures distances between key points to create and store a numeric value that represents only you. This data stays on the HoloLens and is not shared with anyone, and you can choose to delete this data from your HoloLens at any time.
+  * HoloLens also detects hand gestures intended for system interactions (such as menu navigation, pan/zoom, and scroll). This data is processed on your HoloLens device and is not stored.
+  * HoloLens derives tracking points based on your environment which allows it to understand surfaces in space and allows you to place digital assets on them. There are no images associated with this environmental data and it is stored locally on the HoloLens device. You can choose to delete this data from your HoloLens at any time.
+
+The headset's microphones enable voice commands for navigation, controlling
+apps, or to enter search terms. Learn more about voice data collection.
 
 Productivity and communications productsProductivity and communications
 productsmainprodcommproductsmodule
@@ -1980,16 +1993,15 @@ with selected third parties. [Learn more about diagnostic data in Windows
 
 If you choose to turn on **Tailored experiences**, we will use your Windows
 diagnostic data (Basic or Full as you have selected) to offer you personalized
-tips, ads, and recommendations to enhance Microsoft products and services for
-your needs. If you have selected Basic as your diagnostic data setting,
-personalization is based on information about your device, its settings and
-capabilities, and whether it is performing properly. If you have selected
-Full, personalization is also based on information about the websites you
-browse, how you use apps and features, plus additional information about the
-health of your device. However, we do not use information about the websites
-you browse, the content of crash dumps, speech, typing, or inking input data
-for personalization when we receive such data from customers who have selected
-Full.
+tips, ads, and recommendations to enhance Microsoft experiences. If you have
+selected Basic as your diagnostic data setting, personalization is based on
+information about your device, its settings and capabilities, and whether it
+is performing properly. If you have selected Full, personalization is also
+based on information about how you use apps and features, plus additional
+information about the health of your device. However, we do not use
+information about the websites you browse, the content of crash dumps, speech,
+typing, or inking input data for personalization when we receive such data
+from customers who have selected Full.
 
 Tailored experiences include suggestions on how to customize and optimize
 Windows, as well as ads and recommendations for Microsoft and third-party
@@ -2103,7 +2115,7 @@ Summary
 
 **Microsoft Defender SmartScreen**. Microsoft Defender SmartScreen helps protect you when using our services by checking downloaded files and web content for malicious software, potentially unsafe web content, and other threats to you or your device. When checking a file, data about that file is sent to Microsoft, including the file name, a hash of the file's contents, the download location, and the file's digital certificates. If Microsoft Defender SmartScreen identifies the file as unknown or potentially unsafe, you will see a warning prior to opening the file. When checking web content, data about the content and your device is sent to Microsoft, including the full web address of the content. If Microsoft Defender SmartScreen detects that content is potentially unsafe, you will see a warning in place of the content. Microsoft Defender SmartScreen can be turned on or off in Settings.
 
-**Microsoft Defender Antivirus**. Microsoft Defender Antivirus looks for malware and other unwanted software, potentially unwanted apps, and other malicious content on your device. Microsoft Defender Antivirus is automatically turned on to help protect your device if no other antimalware software is actively protecting your device. If Microsoft Defender Antivirus is turned on, it will monitor the security status of your device. When Microsoft Defender Antivirus is turned on, or is running because Limited Periodic Scanning is enabled, it will automatically send reports to Microsoft that contain data about suspected malware and other unwanted software, potentially unwanted apps, and other malicious content, and it may also send files that could contain malicious content, such as malware. If a report is likely to contain personal data, the report is not sent automatically, and you'll be prompted before it is sent. You can configure Microsoft Defender Antivirus not to send reports and suspected malware to Microsoft.
+**Microsoft Defender Antivirus**. Microsoft Defender Antivirus looks for malware and other unwanted software, potentially unwanted apps, and other malicious content on your device. Microsoft Defender Antivirus is automatically turned on to help protect your device if no other antimalware software is actively protecting your device. If Microsoft Defender Antivirus is turned on, it will monitor the security status of your device. When Microsoft Defender Antivirus is turned on, or is running because Limited Periodic Scanning is enabled, it will automatically send reports to Microsoft that contain data about suspected malware and other unwanted software, potentially unwanted apps, and other malicious content, and it may also send files that could contain malicious content, such as malware or unknown files for further inspection. If a report is likely to contain personal data, the report is not sent automatically, and you'll be prompted before it is sent. You can configure Microsoft Defender Antivirus not to send reports and suspected malware to Microsoft.
 
 Speech, Voice Activation, Inking, and TypingSpeech, Voice Activation, Inking,
 and Typingmainspeechinkingtypingmodule
@@ -2458,7 +2470,8 @@ other cloud storage providers to the extent supported by those third-party
 providers, and on your device. If you choose to use Windows Search to search
 the web, or get search suggestions with Windows Search, your search results
 will be powered by Bing and we will use your search query as described in the
-Bing section of this privacy statement.
+Bing section of this privacy statement. [Learn more about search in Windows
+10](https://go.microsoft.com/fwlink/?linkid=2106608)
 
 Your PhoneYour Phonemainyourphonemodule
 
@@ -2738,6 +2751,29 @@ Microsoft or third-party servers to play protected digital content.
 
 **DRM updates**. In some cases, accessing DRM-protected content will require an update to Silverlight or to the DRM components on your device. When you attempt to play content that requires a DRM update, Silverlight will send a request to a Microsoft server containing basic data about your device, including information about the DRM components on your computer such as their revision and security levels, troubleshooting data, and a unique identifier for your device. The Microsoft server uses this identifier to return a unique DRM update for your device, which will then be installed by Silverlight. You can turn off or configure DRM component updates on the **Playback** tab in the Silverlight Configuration tool.
 
+Windows Mixed RealityWindows Mixed Realitymainwindowsmixedrealitymodule
+
+Summary
+
+Windows Mixed Reality allows you to enable a virtual reality experience that
+immerses you in apps and games. Mixed Reality uses a compatible headset’s
+camera, microphone, and infrared sensors to enable motions and voice to be
+used to control gameplay and to navigate apps and games.
+
+Microsoft collects diagnostic data to solve problems and to keep Mixed Reality
+running on Windows up to date, secure, and operating properly. Diagnostic data
+also helps us improve Mixed Reality and related Microsoft products and
+services depending on the diagnostic data settings you’ve chosen for your
+device. Learn more about Windows diagnostic data.
+
+Mixed Reality also processes and collects data specifically related to the
+Mixed Reality experiences, such as:
+
+  * Mixed Reality maps distances between your body's joints to create a stick figure representation of you. If you are connected to the Internet, we collect those numeric values to enable and improve your experience.
+  * Mixed Reality detects specific hand gestures intended to perform simple system interactions (such as menu navigation, pan/zoom, and scroll). This data is processed on your PC and is not stored.
+  * The headset's microphones enable voice commands to control games, apps, or to enter search terms. Learn more about voice data collection.
+  * Windows Mixed Reality can also be used for audio and video communications through services such as Skype.
+
 maineuropeanprivacymodule,mainsecurityofpersonaldatamodule,mainwherewestoreand
 processdatamodule,mainourretentionofpersonaldatamodule,maincaliforniaconsumerp
 rivacyactmodule,mainadvertisingmodule,maincollectionofdatafromchildrenmodule,m
@@ -2753,7 +2789,7 @@ mainsyncsettingsmodule,mainupdateservicesmodule,mainwebbrowsersmodule,mainwi-f
 isensemodule,mainwindowsappsmodule,mainwindowsmediaplayermodule,mainwindowshel
 lomodule,mainyourphonemodule,mainwindowssearchmodule  mainxboxmodule,mainwindo
 wsstoremodule,mainmainmodule,mainmixermodule,maingroovemusicmoviestvmodule,mai
-nsilverlightmodule
+nsilverlightmodule,mainwindowsmixedrealitymodule
 
 mainenterprisedeveloperproductsmodule
 
@@ -2775,7 +2811,7 @@ Contact us
 
 If you have a privacy concern, complaint, or question for the Microsoft Chief
 Privacy Officer or EU Data Protection Officer, please contact us by using our
-[web form](https://go.microsoft.com/fwlink/?LinkId=321116). For more
+[web form](https://go.microsoft.com/fwlink/p/?linkid=2126612). For more
 information about contacting Microsoft, including Microsoft Ireland Operations
 Limited, see the [How to contact
 us](https://privacy.microsoft.com/privacystatement#mainhowtocontactusmodule)
